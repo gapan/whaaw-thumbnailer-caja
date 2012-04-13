@@ -1,0 +1,10 @@
+whaaw-thumbnailer-caja
+======================
+
+This package installs MateConf schemas to use whaaw-thumbnailer
+in order to make thumbnails of video files in the Caja file manager.
+
+It is heavily based on ffmpegthumbnailer-caja, created by the MATE
+developers.
+
+http://www.mate-desktop.org/
