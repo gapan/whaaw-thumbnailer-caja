@@ -20,7 +20,7 @@
             <applyto>/desktop/mate/thumbnailers/application@mxf/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -46,7 +46,7 @@
             <applyto>/desktop/mate/thumbnailers/application@ogg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -72,7 +72,7 @@
             <applyto>/desktop/mate/thumbnailers/application@ram/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -98,7 +98,7 @@
             <applyto>/desktop/mate/thumbnailers/application@sdp/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -124,7 +124,7 @@
             <applyto>/desktop/mate/thumbnailers/application@vnd.ms-wpl/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -150,7 +150,7 @@
             <applyto>/desktop/mate/thumbnailers/application@vnd.rn-realmedia/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -176,7 +176,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-extension-m4a/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -202,7 +202,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-extension-mp4/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -228,7 +228,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-flash-video/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -254,7 +254,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-matroska/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -280,7 +280,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-netshow-channel/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -306,7 +306,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-ogg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -332,7 +332,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-quicktimeplayer/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -358,7 +358,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-shorten/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -384,7 +384,7 @@
             <applyto>/desktop/mate/thumbnailers/image@vnd.rn-realpix/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -410,7 +410,7 @@
             <applyto>/desktop/mate/thumbnailers/image@x-pict/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -436,7 +436,7 @@
             <applyto>/desktop/mate/thumbnailers/misc@ultravox/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -462,7 +462,7 @@
             <applyto>/desktop/mate/thumbnailers/text@x-google-video-pointer/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -488,7 +488,7 @@
             <applyto>/desktop/mate/thumbnailers/video@3gpp/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -514,7 +514,7 @@
             <applyto>/desktop/mate/thumbnailers/video@dv/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -540,7 +540,7 @@
             <applyto>/desktop/mate/thumbnailers/video@fli/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -566,7 +566,7 @@
             <applyto>/desktop/mate/thumbnailers/video@flv/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -592,7 +592,7 @@
             <applyto>/desktop/mate/thumbnailers/video@mp2t/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -618,7 +618,7 @@
             <applyto>/desktop/mate/thumbnailers/video@mp4/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -644,7 +644,7 @@
             <applyto>/desktop/mate/thumbnailers/video@mp4v-es/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -670,7 +670,7 @@
             <applyto>/desktop/mate/thumbnailers/video@mpeg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -696,7 +696,7 @@
             <applyto>/desktop/mate/thumbnailers/video@msvideo/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -722,7 +722,7 @@
             <applyto>/desktop/mate/thumbnailers/video@ogg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -748,7 +748,7 @@
             <applyto>/desktop/mate/thumbnailers/video@quicktime/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -774,7 +774,7 @@
             <applyto>/desktop/mate/thumbnailers/video@vivo/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -800,7 +800,7 @@
             <applyto>/desktop/mate/thumbnailers/video@vnd.divx/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -826,7 +826,7 @@
             <applyto>/desktop/mate/thumbnailers/video@vnd.rn-realvideo/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -852,7 +852,7 @@
             <applyto>/desktop/mate/thumbnailers/video@vnd.vivo/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -878,7 +878,7 @@
             <applyto>/desktop/mate/thumbnailers/video@webm/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -904,7 +904,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-anim/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -930,7 +930,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-avi/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -956,7 +956,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-flc/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -982,7 +982,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-fli/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1008,7 +1008,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-flic/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1034,7 +1034,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-flv/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1060,7 +1060,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-m4v/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1086,7 +1086,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-matroska/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1112,7 +1112,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-mpeg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1138,7 +1138,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-ms-asf/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1164,7 +1164,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-ms-asx/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1190,7 +1190,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-msvideo/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1216,7 +1216,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-ms-wm/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1242,7 +1242,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-ms-wmv/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1268,7 +1268,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-ms-wmx/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1294,7 +1294,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-ms-wvx/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1320,7 +1320,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-nsv/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1346,7 +1346,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-ogm@ogg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1372,7 +1372,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-theora@ogg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1398,7 +1398,7 @@
             <applyto>/desktop/mate/thumbnailers/video@x-totem-stream/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1424,7 +1424,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-pn-realaudio/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1450,7 +1450,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@3gpp/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1476,7 +1476,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@ac3/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1502,7 +1502,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@AMR/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1528,7 +1528,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@AMR-WB/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1554,7 +1554,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@basic/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1580,7 +1580,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@midi/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1606,7 +1606,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@mp4/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1632,7 +1632,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@mpeg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1658,7 +1658,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@ogg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1684,7 +1684,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@prs.sid/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1710,7 +1710,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@vnd.rn-realaudio/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1736,7 +1736,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-aiff/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1762,7 +1762,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-ape/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1788,7 +1788,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-flac/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1814,7 +1814,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-gsm/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1840,7 +1840,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-it/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1866,7 +1866,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-m4a/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1892,7 +1892,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-matroska/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1918,7 +1918,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-mod/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1944,7 +1944,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-mp3/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1970,7 +1970,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-mpeg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -1996,7 +1996,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-ms-asf/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2022,7 +2022,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-ms-asx/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2048,7 +2048,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-ms-wax/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2074,7 +2074,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-ms-wma/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2100,7 +2100,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-musepack/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2126,7 +2126,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-pn-aiff/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2152,7 +2152,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-pn-au/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2178,7 +2178,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-pn-wav/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2204,7 +2204,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-pn-windows-acm/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2230,7 +2230,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-realaudio/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2256,7 +2256,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-real-audio/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2282,7 +2282,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-sbc/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2308,7 +2308,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-speex/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2334,7 +2334,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-tta/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2360,7 +2360,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-wav/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2386,7 +2386,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-wavpack/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2412,7 +2412,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-vorbis/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2438,7 +2438,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-vorbis@ogg/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2464,7 +2464,7 @@
             <applyto>/desktop/mate/thumbnailers/audio@x-xm/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
@@ -2490,7 +2490,7 @@
             <applyto>/desktop/mate/thumbnailers/application@x-flac/command</applyto>
             <owner>whaaw-thumbnailer</owner>
             <type>string</type>
-            <default>/usr/bin/whaaw-thumbnailer -s %s -i %i -o %o -p 0.1</default>
+            <default>/usr/bin/whaaw-thumbnailer -f -s %s -i %i -o %o -p 0.1</default>
             <locale name="C">
                 <short></short>
                 <long></long>
